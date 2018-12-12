@@ -1,2 +1,3 @@
-# hello-world
-CI/CD testing and development
+# maven-project
+
+Simple Maven Project
